@@ -13,4 +13,4 @@ Links To TransProteus Code:
 
 [4) XYZ net for predicting 3d model of standart sets on SUN3D](https://github.com/sagieppel/Predict-3D-model-from-image-as-an-XYZ-map)
 
-[5) Depth net for predicting 3d model of standart sets on SUN3D]([https://github.com/sagieppel/Predict-3D-model-from-image-as-an-XYZ-map](https://github.com/sagieppel/Predict-Depth-map-from-a-single-image-using-neural-net)
+[5) Depth net for predicting 3d model of standart sets on SUN3D](https://github.com/sagieppel/Predict-Depth-map-from-a-single-image-using-neural-net)
